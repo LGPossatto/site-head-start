@@ -1,8 +1,7 @@
-# site-head-start  
-###### en =>  
+# About
 Initial configuration of a site.  
   
-## Content  
+##### Content  
 - Scss files;  
 - Inicial padding, margin, color, style, decorations, and other configurations;  
 - Screen breakpoints;  
@@ -11,18 +10,4 @@ Initial configuration of a site.
 - Font family;  
 - Font sizes;  
 - Images and js folder;  
-- etc;  
-  
-###### pt-br =>  
-Configuração inicial de um site.  
-  
-## Conteúdo  
-- Arquivos scss;  
-- Configuração inicial de padding, margin, color, style, decorations, e mais;  
-- Pontos de quebra de tela;  
-- Classes ajudante;  
-- Classes flex e grid;  
-- Família de fonte;  
-- Tamanho de fontes;  
-- Pasta images e js;  
 - etc;  
